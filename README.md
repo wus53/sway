@@ -1,4 +1,4 @@
-# sway
+# sway 🌴
 learning sway
 
 TODO:
